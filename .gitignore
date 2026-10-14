@@ -1,0 +1,13 @@
+.inspection/
+.test-data/
+credential.xml
+settings.json
+*.log
+status.json
+auth-block.json
+stop.flag
+*.tmp
+.env
+.env.*
+*.pem
+*.key
